@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">dep01</string>
+    <string name="lbl_name">your name:</string>
+    <string name="lbl_hint">write here</string>
+    <string name="lbl_button_send">Send</string>
+    <string name="write_your_name_message">write your name</string>
+    <string name="welcome_message">Hi %s ! welcome </string>
+</resources>
